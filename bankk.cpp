@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// class
+// class Dharemender
 class Bank {
 private:
     int acno;
